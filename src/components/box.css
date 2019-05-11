@@ -1,0 +1,11 @@
+
+.App-box{
+  float: left;
+  text-align: center;
+
+}
+.App-img{
+  float: left;
+  width: 200px;
+  height: 250px;
+}
